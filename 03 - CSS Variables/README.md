@@ -1,4 +1,4 @@
-# Day 2 CSS Variables :1234:  
+# Day 3 CSS Variables :1234:  
 
 ## 目標 :8ball:
 
