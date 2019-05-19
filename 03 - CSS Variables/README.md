@@ -43,6 +43,8 @@ img {
 `brightness 亮度 / contrast 對比 (100% base) hue-rotate 色相旋轉 (0-360 deg)`  
 `blur 模糊 (px/em) drop-shadow下拉陰影 (x, y, blur, spread, color)`  
 
+> 相關資源:  
+> [CSS濾鏡效果](http://blog.shihshih.com/css-filter/)  
 
 ## JavaScript :abc:  
 
