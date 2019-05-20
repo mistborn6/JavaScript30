@@ -48,5 +48,5 @@
 
 > 相關資源:  
 > [了解 Fetch API](https://aotu.io/notes/2017/04/10/fetch-API/index.html)  
-
+> [jQuery Ajax — JavaScript 發送 HTTP 請求 (II)](https://aotu.io/notes/2017/04/10/fetch-API/index.html)  
 
